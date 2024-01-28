@@ -55,6 +55,17 @@ public class WechatConfig {
                 "这个人的称呼",
                 "江苏省南京市玄武区",
                 "南京",
+                new BirthDay(1999,3,21,false,false,"生日快乐哦~~"),
+                new BirthDay(2000,1,21,true,false,"pt生日快乐！！"),
+                new BirthDay(2020,7,8,true,true),
+                new BirthDay(2020,7,8,true,false,"周年快乐！！！")
+        ));
+        userList.add(getUser(
+                "这个人扫码后的微信号",
+                "微信消息模板ID",
+                "这个人的称呼",
+                "江苏省南京市玄武区",
+                "南京",
                 new BirthDay(1999,8,11,false,false,"生日快乐哦~~"),
                 new BirthDay(1999,2,15,true,false,"pt生日快乐！！"),
                 new BirthDay(2020,7,8,true,true),
