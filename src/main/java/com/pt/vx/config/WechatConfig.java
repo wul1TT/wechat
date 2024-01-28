@@ -50,8 +50,8 @@ public class WechatConfig {
       //  ));
 
         userList.add(getUser(
-                "oDYTw6r3grbfbWzIyBqSi9BOBnm8",
-                "5jC7NLFCdDYNnX-mKQJRyFexOmxtt4oxENGv4uGDlZU",
+                "oDYTw6snd9hcXJxs3PQiCgnOiOUY",
+                "DEoQcnRIXeKnKO1NeockDj3IW8ab4D3c7qsG6bRi4QI",
                 "小胖胖",
                 "山东省烟台市莱山区",
                 "烟台",
