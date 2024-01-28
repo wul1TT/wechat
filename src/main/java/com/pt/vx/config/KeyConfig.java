@@ -11,12 +11,12 @@ public class KeyConfig {
     /**
      * 昵称，在模板里面就是{{userName.DATA}}
      */
-    public static final KeyDTO KEY_USER_NAME = new KeyDTO("userName", "#FFFFFF", true);
+    public static final KeyDTO KEY_USER_NAME = new KeyDTO("userName", "#FF3030", true);
 
     /**
      * 日期计算
      */
-    public static final KeyDTO KEY_BIRTHDAY = new KeyDTO("birthDay","#FFFFFF",true);
+    public static final KeyDTO KEY_BIRTHDAY = new KeyDTO("birthDay","#63B8FF",true);
     /**
      * 额外提示
      */
