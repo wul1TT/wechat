@@ -50,11 +50,11 @@ public class WechatConfig {
         ));
 
         userList.add(getUser(
-                "这个人扫码后的微信号",
-                "微信消息模板ID",
-                "这个人的称呼",
-                "江苏省南京市玄武区",
-                "南京",
+                "oDYTw6r3grbfbWzIyBqSi9BOBnm8",
+                "5jC7NLFCdDYNnX-mKQJRyFexOmxtt4oxENGv4uGDlZU",
+                "胖胖",
+                "山东省烟台市莱山区",
+                "烟台",
                 new BirthDay(1999,3,21,false,false,"生日快乐哦~~"),
                 new BirthDay(2000,1,21,true,false,"pt生日快乐！！"),
                 new BirthDay(2020,7,8,true,true),
