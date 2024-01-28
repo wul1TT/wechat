@@ -43,7 +43,7 @@ public class WechatConfig {
                 "TT", //咋称呼这个人
                 "山东省济宁市", //这个人的详细地址
                 "济宁", //这个人在的城市
-                new BirthDay(2000,2,25,true,false,"生日快乐！！"),
+                new BirthDay(2000,1,21,true,false,"生日快乐！！"),
                 new BirthDay(1999,3,21,false,false,"生日快乐哦~~"),
                 new BirthDay(2020,7,8,true,true),
                 new BirthDay(2020,7,8,true,false,"周年快乐！！！")
