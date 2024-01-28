@@ -11,7 +11,7 @@ public class MainConfig {
      * 0 正常模式
      * 1 主人模式
      */
-    public static Integer messageMode = 0;
+    public static Integer messageMode = 1;
 
 
 
@@ -51,7 +51,7 @@ public class MainConfig {
      * 如果<1 会等于1
      * 如果>15 会等于15
      */
-    public static int historyTodayCount = 3;
+    public static int historyTodayCount = 1;
 
     /**
      * 开启API随机模式
@@ -61,7 +61,7 @@ public class MainConfig {
      * true 开启
      * false 关闭
      */
-    public static boolean randomApiMessageMode = true;
+    public static boolean randomApiMessageMode = false;
 
 
 
