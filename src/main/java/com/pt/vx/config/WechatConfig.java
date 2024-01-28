@@ -56,7 +56,7 @@ public class WechatConfig {
                 "山东省烟台市莱山区",
                 "烟台",
                 new BirthDay(1999,3,21,false,false,"生日快乐哦~~"),
-                new BirthDay(2000,1,21,true,false,"pt生日快乐！！"),
+                new BirthDay(2000,1,21,true,false,"生日快乐！！"),
                 new BirthDay(2020,7,8,true,true),
                 new BirthDay(2020,7,8,true,false,"周年快乐！！！")
         ));
