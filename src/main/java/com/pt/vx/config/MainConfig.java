@@ -85,7 +85,7 @@ public class MainConfig {
      * 1：只展示一种，优先展示纪念日
      * 2：全部展示
      */
-    public static Integer otherInfoMode = 1;
+    public static Integer otherInfoMode = 2;
 
     public static List<WeatherOtherInfo>  weatherOtherInfos = new ArrayList<>();
 
@@ -108,7 +108,7 @@ public class MainConfig {
      */
     static {
 
-        weatherOtherInfos.add(new WeatherOtherInfo(0,"<10","天气天气有点小冷，注意保暖哦~"));
+        weatherOtherInfos.add(new WeatherOtherInfo(0,"<10","天气冷冷的，请胖胖穿暖和一点儿"));
         weatherOtherInfos.add(new WeatherOtherInfo(0,">30","天气热起来咯，不要穿太多咯~"));
         weatherOtherInfos.add(new WeatherOtherInfo(1,"雨","出门记得带伞哦！"));
 
