@@ -52,7 +52,7 @@ public class WechatConfig {
         userList.add(getUser(
                 "oDYTw6r3grbfbWzIyBqSi9BOBnm8",
                 "2C9doi_oZCmhVh6LibTaGYvVTtv1TSx2mk1w1xkb7lE",
-                "胖胖",
+                "小胖胖",
                 "山东省烟台市莱山区",
                 "烟台",
                 new BirthDay(1999,3,21,false,false,"生日快乐哦~~"),
