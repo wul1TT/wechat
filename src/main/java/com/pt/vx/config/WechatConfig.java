@@ -37,17 +37,17 @@ public class WechatConfig {
      * 注意：每个用户信息的最后一项不需要加逗号！！！
      */
     static {
-        userList.add(getUser(
-                "", //扫码关注你的测试号以后，测试平台会出现TA的微信号
-                "h7-qF2sRu6r3ZGVQEnvugHZuo7kfkaoS1RppRiK9GUU", //要给这个人发送的模板ID
-                "TT", //咋称呼这个人
-                "山东省济宁市", //这个人的详细地址
-                "济宁", //这个人在的城市
-                new BirthDay(2000,1,21,true,false,"生日快乐！！"),
-                new BirthDay(1999,3,21,false,false,"生日快乐哦~~"),
-                new BirthDay(2020,7,8,true,true),
-                new BirthDay(2020,7,8,true,false,"周年快乐！！！")
-        ));
+       // userList.add(getUser(
+       //         "", //扫码关注你的测试号以后，测试平台会出现TA的微信号
+        //        "h7-qF2sRu6r3ZGVQEnvugHZuo7kfkaoS1RppRiK9GUU", //要给这个人发送的模板ID
+        //        "TT", //咋称呼这个人
+        //        "山东省济宁市", //这个人的详细地址
+         //       "济宁", //这个人在的城市
+        //        new BirthDay(2000,1,21,true,false,"生日快乐！！"),
+        //        new BirthDay(1999,3,21,false,false,"生日快乐哦~~"),
+        //        new BirthDay(2020,7,8,true,true),
+         //       new BirthDay(2020,7,8,true,false,"周年快乐！！！")
+      //  ));
 
         userList.add(getUser(
                 "oDYTw6r3grbfbWzIyBqSi9BOBnm8",
