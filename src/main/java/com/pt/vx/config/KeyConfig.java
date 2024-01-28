@@ -25,7 +25,7 @@ public class KeyConfig {
     /**
      * 日期
      */
-    public static final KeyDTO KEY_DATE = new KeyDTO("date","#FFFFFF",true);
+    public static final KeyDTO KEY_DATE = new KeyDTO("date","#008B00",true);
     /**
      * 星期
      */
@@ -33,11 +33,11 @@ public class KeyConfig {
     /**
      * 白天天气
      */
-    public static final KeyDTO KEY_WEATHER_DAY = new KeyDTO("weatherDay","#FFFFFF",true);
+    public static final KeyDTO KEY_WEATHER_DAY = new KeyDTO("weatherDay","#FFFF00",true);
     /**
      * 白天温度
      */
-    public static final KeyDTO KEY_TEMPERATURE_DAY = new KeyDTO("temperatureDay","#FFFFFF",true);
+    public static final KeyDTO KEY_TEMPERATURE_DAY = new KeyDTO("temperatureDay","#FFFF00",true);
     /**
      * 白天风向
      */
@@ -50,11 +50,11 @@ public class KeyConfig {
     /**
      * 晚上天气
      */
-    public static final KeyDTO KEY_WEATHER_NIGHT = new KeyDTO("weatherNight","#FFFFFF",true);
+    public static final KeyDTO KEY_WEATHER_NIGHT = new KeyDTO("weatherNight","#FFFF00",true);
     /**
      * 晚上温度
      */
-    public static final KeyDTO KEY_TEMPERATURE_NIGHT = new KeyDTO("temperatureNight","#FFFFFF",true);
+    public static final KeyDTO KEY_TEMPERATURE_NIGHT = new KeyDTO("temperatureNight","#FFFF00",true);
 
     /**
      * 晚上风向
